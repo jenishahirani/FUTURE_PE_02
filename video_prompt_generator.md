@@ -22,3 +22,7 @@ Keep it authentic, handheld, and UGC-style — no polished studio look.
 Total runtime should match the script's spoken length. Output as a numbered 
 shot list, ready to hand to a videographer or paste into an AI video tool 
 (Pika, Runway, CapCut).
+
+## Final Video
+
+[Watch Final Lipstick Video](./Final_lipstick_video%20(2).mp4)
